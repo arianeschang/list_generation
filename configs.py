@@ -1,0 +1,4 @@
+REPORT_FORMAT = 'Simple Walk List'
+SCRIPT = 'Lit Drop Script'
+CONTACTED_HOW = 'Walk'
+MINIVAN_CAMPAIGN = 'PA MiniVAN 20201009'
